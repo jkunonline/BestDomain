@@ -60,7 +60,7 @@ if __name__ == "__main__":
     
     # 示例URL和子域名对应的IP列表
     subdomain_ip_mapping = {
-        'bestpokemon': 'https://ipdb.030101.xyz/api/bestcf.txt',
+        'iplt': 'https://ipdb.030101.xyz/api/bestcf.txt',
         #'bestproxy': 'https://ipdb.030101.xyz/api/bestproxy.txt',
         # 添加更多子域名和对应的IP列表URL
     }
